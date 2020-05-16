@@ -1,0 +1,12 @@
+//https://my-json-server.typicode.com/lucyph3rz/lcf-mock-server
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
