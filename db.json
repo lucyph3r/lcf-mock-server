@@ -2,7 +2,8 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "body" : "there are big news\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac iaculis mi, vel sollicitudin lectus. Suspendisse potenti. Phasellus eleifend, sapien sed interdum dignissim, leo purus luctus mauris, non ullamcorper dolor risus non sem. Sed eu rutrum nisl. Pellentesque nec tincidunt orci. Cras gravida sodales lorem ut sodales. Suspendisse eu sem pharetra nisi lacinia luctus in id erat. Maecenas lacinia neque nec augue bibendum tempor. Aliquam ullamcorper, quam non sollicitudin efficitur, magna ante congue erat, eget blandit elit ex ac massa. Curabitur id lobortis orci. Sed ut finibus ex, id tempus nulla."        
       }
     ],
     "profile": {
